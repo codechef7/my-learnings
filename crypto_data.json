@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Bitcoin",
+        "symbol": "btc",
+        "price": 70767,
+        "market_cap": 1415275801973
+    },
+    {
+        "name": "Ethereum",
+        "symbol": "eth",
+        "price": 2074.44,
+        "market_cap": 250355886867
+    }
+]
