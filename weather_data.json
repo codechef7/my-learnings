@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 77.4,
+        "lat": 23.2667
+    },
+    "weather": [
+        {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 31.85,
+        "feels_like": 29.63,
+        "temp_min": 31.85,
+        "temp_max": 31.85,
+        "pressure": 1007,
+        "humidity": 12,
+        "sea_level": 1007,
+        "grnd_level": 951
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.68,
+        "deg": 278,
+        "gust": 6.74
+    },
+    "clouds": {
+        "all": 24
+    },
+    "dt": 1773492844,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1773450043,
+        "sunset": 1773493131
+    },
+    "timezone": 19800,
+    "id": 1275841,
+    "name": "Bhopal",
+    "cod": 200
+}
