@@ -10,7 +10,8 @@ response=requests.get(url)
 
 data=response.json()
 
-print(data)   
+print(data)  
+print('data')   
 
 print("city:",data["name"])
 print("temperature:",data["main"]["temp"],"°C")
